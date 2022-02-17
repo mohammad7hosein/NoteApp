@@ -6,7 +6,7 @@ A Clean Architecture Note App With Jetpack Compose
 * MVVM
 * Jetpack Compose
 * Dependency Injection With Hilt
-*Coroutine
+* Coroutine
 * Flow
 * Room
 
